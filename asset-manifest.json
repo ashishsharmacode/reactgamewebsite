@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactgamewebsite/static/css/main.e1f45f8b.css",
+    "main.js": "/reactgamewebsite/static/js/main.ccb1adbc.js",
+    "index.html": "/reactgamewebsite/index.html",
+    "main.e1f45f8b.css.map": "/reactgamewebsite/static/css/main.e1f45f8b.css.map",
+    "main.ccb1adbc.js.map": "/reactgamewebsite/static/js/main.ccb1adbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f45f8b.css",
+    "static/js/main.ccb1adbc.js"
+  ]
+}
